@@ -1,2 +1,2 @@
-# compose-stats
+# Docker compose-stats
 Docker Compose resource monitoring CLI
